@@ -2,22 +2,6 @@
 
 A powerful **Streamlit web application** that transforms student mental health data into actionable insights. Featuring interactive visualizations, intelligent analytics, and conversational AI for exploring mental health patterns across student populations.
 
----
-
-## 📋 Quick Navigation
-
-- [What It Does](#what-it-does)
-- [Key Capabilities](#key-capabilities)
-- [Getting Started](#getting-started)
-- [Project Layout](#project-layout)
-- [Dashboard Walkthrough](#dashboard-walkthrough)
-- [Technical Stack](#technical-stack)
-- [Data Overview](#data-overview)
-- [Smart Q&A System](#smart-qa-system)
-- [Code Guide](#code-guide)
-
----
-
 ## 🎯 What It Does
 
 This application transforms raw student mental health data into visual stories. It helps educators, researchers, and counselors understand the mental health landscape of their student population—covering depression, anxiety, academic pressure, social support, and treatment-seeking behaviors.
@@ -27,39 +11,6 @@ This application transforms raw student mental health data into visual stories. 
 - Educational researchers
 - Institutional decision-makers
 - Data science professionals
-
----
-
-## ⚠️ Security & GitHub
-
-**IMPORTANT BEFORE UPLOADING TO GITHUB:**
-
-✅ **`.env` file is PROTECTED** - Added to `.gitignore`, never exposed  
-✅ **Use `.env.example`** - Shows structure without exposing keys  
-✅ **API key stays private** - Only on your local machine  
-
-**If you already committed `.env`:**
-1. Regenerate your Groq API key immediately
-2. Run `git rm --cached .env` to remove from tracking
-3. Make sure `.gitignore` has `.env` added
-4. Push these changes
-
-**Setup for GitHub:**
-```bash
-# 1. Create .env locally (never upload)
-cp .env.example .env
-# Edit .env with your actual key
-
-# 2. Git ignores it automatically
-git status  # Should NOT show .env
-
-# 3. Others clone and do same
-git clone your-repo
-cp .env.example .env
-# They add their own API key
-```
-
----
 
 ## 🚀 Key Capabilities
 
@@ -127,11 +78,6 @@ E:\ai-project-main\ai\Scripts\Activate.ps1
 E:\ai-project-main\ai\Scripts\activate.bat
 ```
 
-**Mac/Linux:**
-```bash
-source ai/bin/activate
-```
-
 ### 2. Create Configuration File
 
 In the project folder, create a `.env` file:
@@ -139,8 +85,6 @@ In the project folder, create a `.env` file:
 ```
 GROQ_API_KEY=your_api_key_here
 ```
-
-**Don't have an API key?** Get one free from [console.groq.com](https://console.groq.com)
 
 ### 3. Install Dependencies
 
@@ -302,5 +246,6 @@ The system works even without internet (uses local embeddings), and gracefully h
 ✅ **Filters not working?** Make sure at least one option is selected  
 ✅ **Charts look odd?** Refresh browser or restart app  
 ✅ **Confused by numbers?** Check Dataset section above for column meanings
+
 
 
