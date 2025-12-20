@@ -168,11 +168,6 @@ Open your browser to `http://localhost:8501`
 ### Source
 Kaggle: [Mental Health of Students Dataset](https://www.kaggle.com/datasets/aminasalamat/mental-health-of-students-dataset)
 
-### Key Information
-- **Records**: 10,000+ student entries
-- **Features**: 15+ columns
-- **Coverage**: Comprehensive mental health data
-
 ### Main Columns
 
 | Data | Meaning |
@@ -198,7 +193,7 @@ Kaggle: [Mental Health of Students Dataset](https://www.kaggle.com/datasets/amin
 How does the AI understand your questions?
 
 1. **You ask a question** - "What percentage of students have anxiety?"
-2. **AI finds relevant info** - Searches a knowledge base of 50+ documents
+2. **AI finds relevant info** - Searches a knowledge base 
 3. **Context is added** - Retrieves matching statistics and patterns
 4. **LLM generates answer** - Uses Groq's fast language model
 5. **You get insights** - Conversational, accurate response
@@ -246,6 +241,7 @@ The system works even without internet (uses local embeddings), and gracefully h
 ✅ **Filters not working?** Make sure at least one option is selected  
 ✅ **Charts look odd?** Refresh browser or restart app  
 ✅ **Confused by numbers?** Check Dataset section above for column meanings
+
 
 
 
