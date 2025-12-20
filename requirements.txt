@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+sentence-transformers
+chromadb
+groq
+python-dotenv

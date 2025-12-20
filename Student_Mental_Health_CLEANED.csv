@@ -1,0 +1,251 @@
+Gender,Age,Course,StudyYear,CGPA,MaritalStatus,Depression,Anxiety,PanicAttack,Treatment,Sleep Quality,Exercise Frequency,Social Support,Academic Pressure,Financial Stress,Study Hour per Day,Family History of Mental Illness
+Female,18,Engineering,year 1,3.245,S,Yes,No,Yes,No,Poor,Rarely,Moderate,Low,High,3,Yes
+Male,21,Islamic education,year 2,3.245,S,No,Yes,No,No,Excellent,Daily,Very High,Low,No Stress,2,No
+Male,19,BIT,Year 1,3.245,S,Yes,Yes,Yes,No,Good,Daily,Low,Low,No Stress,2,No
+Female,22,Laws,year 3,3.245,M,Yes,No,No,No,Fair,Never,Low,Very High,No Stress,6,No
+Male,23,Mathemathics,year 4,3.245,S,No,No,No,No,Fair,Rarely,Low,Very High,Moderate,3,No
+Male,19,Engineering,Year 2,3.75,S,No,No,Yes,No,Good,1-2 times/week,High,Low,High,4,Yes
+Female,23,Pendidikan islam,year 2,3.75,M,Yes,No,Yes,No,Fair,Never,Very Low,Moderate,High,4,Yes
+Female,18,BCS,year 1,3.75,S,No,Yes,No,No,Fair,Never,Very Low,Low,Moderate,7,Yes
+Female,19,Human Resources,Year 2,2.745,S,No,No,No,No,Good,Rarely,Very Low,Low,High,8,Yes
+Male,18,Irkhs,year 1,3.75,S,No,Yes,Yes,No,Fair,Never,Very High,Moderate,Low,7,No
+Female,20,Psychology,year 1,3.75,S,No,No,No,No,Excellent,3-4 times/week,Moderate,Low,High,4,No
+Female,24,Engineering,Year 3,3.75,M,Yes,No,No,No,Excellent,Never,Low,Low,Low,2,No
+Female,18,BCS,year 1,3.245,S,Yes,No,No,No,Fair,Daily,Low,Low,Moderate,2,Yes
+Male,19,Engineering,year 1,3.245,S,No,No,No,No,Good,Daily,Very Low,Very High,No Stress,5,No
+Female,18,KENMS,Year 2,3.75,S,No,Yes,No,No,Fair,Rarely,Very Low,Very High,Moderate,5,No
+Male,24,BCS,Year 3,3.75,S,No,No,No,No,Good,Never,Very High,High,No Stress,4,No
+Female,24,Accounting ,year 3,3.245,S,No,No,No,No,Poor,Rarely,Very Low,Very High,Low,5,No
+Female,24,ENM,year 4,3.245,M,Yes,Yes,Yes,No,Poor,1-2 times/week,Low,Low,Moderate,4,No
+Female,20,BIT,Year 2,3.75,S,No,Yes,No,No,Excellent,Never,Very High,Low,High,7,No
+Female,18,Marine science,year 2,3.75,M,Yes,Yes,Yes,No,Good,1-2 times/week,High,Very High,Moderate,8,No
+Female,19,Engineering,year 1,3.245,S,No,No,Yes,No,Fair,1-2 times/week,Very Low,Low,No Stress,2,No
+Female,18,KOE,Year 2,3.245,S,No,No,No,No,Excellent,3-4 times/week,Very Low,Very High,No Stress,8,No
+Female,24,BCS,year 1,3.75,S,No,No,No,No,Poor,Never,High,Very High,Moderate,3,No
+Female,24,Engineering,year 1,3.245,S,No,No,No,No,Fair,Never,Very Low,High,Moderate,8,No
+Female,23,BCS,Year 3,3.75,S,Yes,Yes,Yes,No,Fair,Never,Very Low,Very High,Low,2,Yes
+Female,18,Banking Studies,year 1,3.75,S,No,No,No,No,Good,Rarely,Very Low,Low,High,6,No
+Female,19,Engineering,year 1,3.75,S,No,No,No,No,Excellent,Daily,Very Low,Very High,Moderate,9,No
+Male,18,Engineering,Year 2,3.245,M,Yes,Yes,No,No,Poor,1-2 times/week,Very Low,Moderate,High,4,No
+Female,24,BIT,Year 3,3.75,M,Yes,Yes,Yes,Yes,Fair,3-4 times/week,Very Low,High,Moderate,8,No
+Female,24,BCS,year 4,3.75,S,No,No,No,No,Poor,3-4 times/week,Very Low,Very High,High,4,No
+Female,23,Business Administration,Year 2,3.245,S,No,No,No,No,Fair,Never,Low,Very High,High,6,No
+Male,18,BCS,year 2,3.245,S,No,No,No,No,Poor,Never,High,Low,Moderate,3,No
+Male,19,BCS,year 1,3.75,S,No,No,Yes,No,Fair,Daily,Moderate,Low,High,5,No
+Male,18,BCS,Year 2,3.75,M,Yes,Yes,No,Yes,Poor,Daily,Low,High,High,8,No
+Female,19,BIT,year 1,3.245,S,Yes,Yes,Yes,No,Poor,Rarely,Low,High,High,2,Yes
+Female,18,Engineering,year 1,2.245,S,No,No,No,No,Poor,1-2 times/week,Moderate,Low,Moderate,7,No
+Female,18,Law,Year 3,3.245,S,Yes,Yes,No,No,Fair,1-2 times/week,Moderate,Moderate,High,8,No
+Female,19,BIT,year 1,2.745,S,Yes,Yes,Yes,No,Fair,Rarely,Very Low,High,No Stress,8,No
+Female,18,KIRKHS,year 1,3.75,S,No,No,No,No,Good,Never,Very Low,Very High,High,5,No
+Female,24,Engineering,Year 2,2.745,M,Yes,No,Yes,Yes,Poor,Daily,Very Low,Moderate,High,8,No
+Female,24,BIT,Year 3,3.245,S,No,Yes,No,No,Fair,Never,High,Very High,Moderate,4,Yes
+Female,22,Engineering,year 4,3.75,S,No,No,No,No,Fair,Daily,Moderate,High,Low,5,No
+Female,20,Usuluddin ,year 2,3.245,S,Yes,No,No,No,Fair,3-4 times/week,Very Low,Moderate,Low,3,No
+Male,,BIT,year 1,0.995,S,No,No,No,No,Excellent,Daily,Moderate,High,Low,7,Yes
+Male,23,TAASL,year 2,3.75,S,No,No,Yes,No,Good,3-4 times/week,Very High,Moderate,No Stress,2,Yes
+Male,18,BCS,year 1,3.75,S,No,Yes,Yes,No,Poor,3-4 times/week,High,Very High,High,7,No
+Female,19,Engineering,year 1,3.75,S,No,Yes,No,No,Fair,1-2 times/week,Very Low,Low,Low,3,No
+Female,18,Engine,year 4,3.75,S,No,No,No,No,Poor,Never,Very High,Low,High,5,No
+Male,24,BCS,year 2,3.245,S,Yes,No,No,No,Fair,1-2 times/week,Very Low,Very High,Moderate,4,No
+Female,24,BCS,year 3,3.75,S,No,No,Yes,No,Poor,Rarely,High,High,High,8,No
+Female,23,ALA,year 1,2.745,M,Yes,No,Yes,Yes,Fair,Daily,Very Low,Moderate,High,8,No
+Female,18,BCS,year 2,3.75,S,No,Yes,No,No,Poor,3-4 times/week,High,High,Moderate,9,No
+Female,19,Biomedical science,year 3,3.245,S,No,No,No,No,Good,3-4 times/week,Very High,Low,Low,4,Yes
+Female,20,koe,year 3,3.245,M,Yes,Yes,Yes,No,Fair,Never,Low,Very High,High,6,No
+Female,19,BCS,year 1,3.75,S,Yes,No,Yes,Yes,Poor,Rarely,Very Low,Low,High,6,No
+Male,21,BCS,year 1,3.245,S,No,No,No,No,Good,Never,Very Low,Low,Moderate,8,No
+Male,23,Kirkhs,Year 3,3.75,S,No,No,No,No,Good,1-2 times/week,Very Low,High,No Stress,8,Yes
+Female,20,BENL,Year 3,3.245,S,Yes,Yes,No,No,Poor,Never,Very Low,Very High,Moderate,9,No
+Female,18,BCS,year 1,3.75,S,No,No,No,No,Poor,1-2 times/week,Very Low,High,Moderate,7,No
+Female,23,Benl,year 1,3.245,S,No,No,No,No,Excellent,3-4 times/week,Very High,Moderate,High,6,Yes
+Female,18,IT,Year 3,3.245,S,No,No,Yes,No,Poor,Daily,Very High,High,No Stress,7,Yes
+Female,19,BCS,year 1,3.75,S,No,No,No,No,Excellent,Never,Very High,Moderate,High,9,No
+Female,18,CTS,Year 1,3.75,S,No,No,Yes,No,Good,Daily,High,Low,High,4,No
+Female,24,engin,year 1,3.75,S,No,No,Yes,No,Good,Never,Moderate,Very High,High,3,No
+Female,24,Engine,year 1,3.75,S,No,No,No,No,Poor,1-2 times/week,Very Low,Moderate,Low,4,Yes
+Female,23,Econs,year 1,3.75,S,Yes,Yes,No,No,Fair,Rarely,Low,High,High,6,No
+Female,18,KOE,Year 3,3.245,S,No,Yes,No,No,Fair,1-2 times/week,Very Low,Very High,Moderate,7,No
+Male,19,MHSC,Year 3,3.245,M,Yes,No,Yes,No,Poor,1-2 times/week,High,Very High,Moderate,4,No
+Female,18,Malcom,year 1,3.75,S,Yes,No,No,No,Fair,1-2 times/week,Low,High,Low,4,No
+Female,24,Kop,year 4,3.245,S,No,Yes,No,No,Poor,1-2 times/week,High,High,High,2,Yes
+Female,24,Biomedical science,year 1,3.245,S,No,No,No,No,Fair,Daily,Very High,Very High,Moderate,6,Yes
+Female,18,Laws,Year 3,3.75,S,No,No,Yes,No,Poor,Rarely,Very High,Low,Low,6,No
+Female,19,BIT,Year 3,3.245,M,Yes,No,No,No,Poor,Daily,Very Low,Moderate,High,2,Yes
+Male,18,Biomedical science,year 1,0.995,S,No,No,No,No,Good,Rarely,Low,Very High,Moderate,7,No
+Male,24,BIT,Year 3,3.75,S,No,Yes,No,No,Excellent,Never,High,Very High,High,8,No
+Female,24,KOE,year 1,3.75,S,No,Yes,Yes,No,Poor,3-4 times/week,Moderate,Moderate,No Stress,4,No
+Female,23,Engineering,year 1,3.245,S,Yes,No,No,No,Fair,Rarely,Moderate,High,High,4,No
+Female,18,Human Sciences ,Year 2,3.245,S,No,No,Yes,No,Poor,Daily,Moderate,Very High,Low,5,No
+Female,19,Biotechnology,Year 3,0.995,S,No,No,No,No,Poor,Rarely,Very High,High,High,7,No
+Female,18,Engineering,year 4,3.75,S,No,No,No,No,Good,Never,Moderate,Low,High,4,No
+Female,24,Communication ,Year 2,3.75,M,Yes,Yes,Yes,No,Fair,Daily,Low,Moderate,Low,3,No
+Female,24,Diploma Nursing,year 2,3.75,S,No,No,No,No,Good,Daily,Moderate,Low,Low,8,No
+Female,19,Engineering,year 1,3.245,S,Yes,Yes,No,No,Fair,3-4 times/week,Low,Low,No Stress,6,Yes
+Female,19,Pendidikan Islam ,Year 2,3.245,S,No,No,No,No,Fair,3-4 times/week,High,Low,High,2,Yes
+Male,23,Radiography,year 1,3.245,S,No,No,No,No,Good,Daily,Moderate,Moderate,High,4,No
+Female,18,psychology,year 1,3.75,S,Yes,Yes,No,Yes,Good,1-2 times/week,Very Low,Moderate,No Stress,2,No
+Female,19,Fiqh fatwa ,Year 3,3.245,S,No,No,No,No,Good,Rarely,Low,Moderate,No Stress,7,No
+Female,18,psychology,year 1,3.75,S,Yes,Yes,Yes,No,Poor,Never,Very Low,Very High,High,7,Yes
+Male,24,BIT,year 1,3.245,S,No,Yes,No,No,Fair,Rarely,Moderate,High,High,4,Yes
+Male,24,Engineering,Year 2,2.245,S,No,No,Yes,No,Good,Never,Moderate,Low,High,6,No
+Female,23,DIPLOMA TESL,Year 3,3.75,S,No,No,Yes,No,Poor,Rarely,Very Low,Low,Moderate,7,Yes
+Male,18,Koe,Year 2,3.245,S,No,Yes,No,No,Fair,Daily,Low,Low,No Stress,7,No
+Female,19,KOE,year 2,3.245,M,Yes,No,No,No,Poor,Never,Low,Very High,Moderate,8,No
+Female,18,BENL,year 1,3.245,S,Yes,No,No,No,Fair,Daily,Very Low,Low,High,8,Yes
+Female,24,Fiqh,Year 3,0.995,S,No,No,Yes,No,Fair,3-4 times/week,High,Moderate,Moderate,3,No
+Female,18,Islamic Education,year 1,3.75,S,No,No,No,No,Fair,Rarely,Very Low,Very High,Moderate,3,No
+Female,21,BCS,year 1,3.75,S,No,Yes,No,No,Poor,Daily,Very Low,Very High,Moderate,8,No
+Male,18,Engineering,Year 2,3.245,S,Yes,Yes,No,No,Poor,3-4 times/week,Very Low,High,Moderate,5,No
+Female,19,Nursing ,Year 3,3.75,M,Yes,No,Yes,No,Poor,3-4 times/week,High,Low,High,9,Yes
+Female,23,Pendidikan Islam,year 4,3.75,S,No,No,No,No,Poor,3-4 times/week,Very High,Very High,Low,2,No
+Male,20,Biomedical science,Year 2,3.245,S,No,No,No,No,Good,3-4 times/week,High,Low,Low,6,No
+Male,21,Business,year 3,3.245,M,Yes,Yes,Yes,Yes,Excellent,Daily,Very Low,High,High,7,No
+Female,20,Islamic education,year 1,0.995,M,No,No,No,No,Excellent,3-4 times/week,Very Low,High,High,3,No
+Male,20,Law,year 1,3.245,M,No,Yes,No,No,Fair,1-2 times/week,Very High,Very High,High,9,No
+Female,22,Medicine,year 1,0.995,M,No,No,No,No,Fair,1-2 times/week,Very High,Moderate,High,6,No
+Male,18,Medicine,year 2,0.995,M,No,No,Yes,No,Poor,Daily,Very Low,Moderate,High,4,Yes
+Male,22,Nursing,year 2,2.245,S,Yes,No,No,No,Fair,1-2 times/week,Very Low,High,High,3,No
+Male,19,Nursing,year 2,2.245,M,No,No,No,No,Excellent,Never,Low,High,Low,6,No
+Male,20,Business,year 4,3.75,S,No,No,No,No,Excellent,Rarely,High,High,Low,6,No
+Female,22,Islamic education,year 3,2.245,M,Yes,Yes,No,No,Fair,1-2 times/week,High,Very High,Moderate,3,No
+Male,18,BIT,year 3,2.245,M,No,No,Yes,No,Excellent,Daily,High,High,High,2,No
+Male,23,Engineering,year 1,3.245,S,No,No,No,No,Excellent,1-2 times/week,Very High,High,High,8,No
+Male,18,Medicine,year 3,2.245,S,No,No,No,No,Poor,1-2 times/week,Very High,Very High,Moderate,8,No
+Male,20,BIT,year 4,2.245,M,Yes,Yes,Yes,Yes,Poor,Daily,Very Low,Low,High,6,No
+Female,23,Science,year 3,3.75,S,Yes,Yes,Yes,No,Poor,Daily,Low,High,No Stress,2,No
+Female,22,Psychology,year 3,3.245,M,No,No,No,No,Fair,Daily,Very High,High,No Stress,8,No
+Male,24,Science,year 2,2.245,S,No,No,Yes,No,Poor,Never,Moderate,Low,No Stress,9,No
+Male,18,Medicine,year 2,2.245,S,No,No,No,No,Fair,Rarely,Moderate,Very High,Moderate,2,No
+Female,21,Psychology,year 2,2.245,S,Yes,Yes,No,No,Fair,3-4 times/week,Very Low,Low,Low,4,Yes
+Male,22,BIT,year 1,2.245,S,No,Yes,No,No,Fair,3-4 times/week,Moderate,Low,No Stress,5,No
+Female,21,Business,year 3,3.245,S,No,Yes,Yes,Yes,Poor,3-4 times/week,Very High,High,Moderate,2,No
+Female,20,Education,year 2,3.245,M,Yes,No,No,Yes,Fair,Daily,Moderate,Low,High,5,No
+Male,20,Nursing,year 2,3.245,M,No,No,No,No,Fair,Rarely,Very High,High,Moderate,5,No
+Female,18,Science,year 3,3.245,M,No,No,Yes,No,Excellent,Never,Moderate,Very High,Low,4,No
+Male,23,Education,year 3,2.745,S,No,No,No,No,Excellent,Daily,Very High,Very High,No Stress,6,No
+Female,23,Education,year 2,2.245,S,No,No,No,No,Excellent,Daily,High,High,No Stress,3,Yes
+Female,18,Medicine,year 3,2.245,S,No,Yes,Yes,No,Poor,3-4 times/week,Moderate,High,Moderate,6,No
+Male,24,Education,year 2,0.995,M,No,No,Yes,No,Fair,Daily,Very High,High,Moderate,6,No
+Male,24,Science,year 4,3.245,M,No,No,No,No,Excellent,Daily,Very High,Very High,No Stress,5,No
+Male,21,Education,year 1,3.245,S,Yes,Yes,Yes,No,Fair,Daily,Low,Very High,Moderate,4,No
+Female,24,BCS,year 4,2.745,S,No,No,Yes,No,Fair,Daily,Moderate,Very High,Moderate,4,No
+Female,18,BIT,year 4,0.995,S,No,No,No,No,Excellent,3-4 times/week,High,High,High,5,No
+Male,23,Islamic education,year 2,2.745,M,No,No,No,No,Fair,1-2 times/week,Very Low,Low,No Stress,5,Yes
+Female,19,Islamic education,year 4,2.745,M,Yes,Yes,No,No,Poor,Rarely,High,Moderate,Moderate,3,No
+Male,24,Law,year 3,0.995,S,Yes,Yes,Yes,Yes,Fair,Rarely,Moderate,Very High,High,9,Yes
+Male,23,Arts,year 2,2.245,M,No,No,No,No,Fair,Never,Low,High,No Stress,5,No
+Female,19,Islamic education,year 4,3.245,S,No,Yes,No,Yes,Fair,Daily,Very High,Very High,High,7,No
+Female,21,Law,year 1,3.75,M,No,No,No,No,Excellent,1-2 times/week,Very High,Moderate,No Stress,5,No
+Male,18,Engineering,year 1,3.245,S,No,No,No,No,Fair,Rarely,Very High,Low,High,5,Yes
+Male,19,Nursing,year 4,2.245,S,Yes,No,No,No,Fair,1-2 times/week,Low,High,Moderate,3,No
+Female,22,BCS,year 4,3.75,S,No,Yes,Yes,Yes,Poor,1-2 times/week,Very Low,High,Moderate,4,No
+Male,23,BCS,year 3,0.995,S,Yes,Yes,Yes,No,Fair,3-4 times/week,Low,Very High,Moderate,9,No
+Female,23,BIT,year 4,3.75,S,No,No,Yes,No,Fair,Daily,High,Very High,High,2,No
+Male,23,Islamic education,year 2,3.75,S,No,No,No,No,Good,3-4 times/week,High,Very High,No Stress,8,No
+Male,22,Arts,year 1,2.245,M,No,No,No,No,Excellent,1-2 times/week,Low,Low,No Stress,6,Yes
+Female,24,Law,year 4,2.245,S,Yes,Yes,Yes,Yes,Fair,Never,Very Low,Very High,High,2,No
+Male,23,BCS,year 3,2.245,M,No,No,No,No,Excellent,1-2 times/week,Moderate,Low,No Stress,5,Yes
+Female,23,BIT,year 2,3.245,S,Yes,Yes,Yes,Yes,Fair,1-2 times/week,Low,Low,Moderate,4,No
+Male,21,Psychology,year 4,3.245,M,Yes,Yes,No,Yes,Fair,1-2 times/week,Low,High,No Stress,9,No
+Female,19,Nursing,year 1,2.745,M,No,No,No,No,Poor,3-4 times/week,Low,Low,High,8,No
+Male,21,Business,year 4,0.995,S,No,Yes,Yes,No,Poor,Daily,Very High,Very High,High,3,No
+Female,20,Psychology,year 2,2.245,S,No,Yes,Yes,Yes,Fair,3-4 times/week,Very High,Very High,Low,4,No
+Female,21,Law,year 3,3.75,M,No,No,Yes,No,Good,3-4 times/week,High,Very High,High,5,Yes
+Male,21,BCS,year 4,0.995,S,No,Yes,Yes,No,Fair,Daily,Moderate,Very High,Moderate,8,No
+Female,18,Business,year 1,3.75,M,No,Yes,No,No,Excellent,3-4 times/week,High,Very High,High,8,No
+Female,22,Law,year 2,0.995,S,No,No,No,No,Excellent,Never,High,Very High,Moderate,7,No
+Female,18,Engineering,year 4,2.745,S,No,Yes,No,No,Fair,Daily,Very Low,High,High,4,Yes
+Male,20,Science,year 3,3.245,S,No,Yes,No,Yes,Fair,Never,Moderate,Low,Moderate,4,No
+Male,21,Engineering,year 3,2.245,S,Yes,Yes,No,Yes,Poor,Never,Low,High,High,6,No
+Male,23,Medicine,year 1,0.995,S,No,Yes,Yes,No,Fair,1-2 times/week,Very Low,High,High,2,Yes
+Male,22,Islamic education,year 4,2.745,M,Yes,Yes,Yes,No,Excellent,Daily,Moderate,High,High,4,No
+Male,20,Psychology,year 2,2.745,M,Yes,Yes,No,Yes,Poor,Never,Very Low,High,High,8,No
+Female,19,BCS,year 1,0.995,S,No,No,No,No,Excellent,Daily,Low,Very High,Moderate,9,No
+Female,24,Education,year 3,2.245,M,No,No,No,No,Fair,3-4 times/week,Very Low,Very High,Low,9,Yes
+Male,23,Arts,year 4,3.245,M,No,No,No,No,Good,Rarely,Very Low,Very High,Low,7,No
+Female,18,Psychology,year 1,3.75,S,No,No,No,No,Poor,Rarely,High,Moderate,High,9,No
+Female,19,Science,year 3,0.995,S,No,No,No,No,Poor,Rarely,Very High,High,Low,8,No
+Male,22,Nursing,year 2,2.245,S,No,No,No,No,Excellent,Rarely,High,High,High,6,Yes
+Male,20,Arts,year 3,3.75,M,Yes,Yes,Yes,No,Fair,Never,Moderate,Very High,High,2,Yes
+Female,20,Islamic education,year 2,2.745,S,No,No,No,No,Good,3-4 times/week,Very High,Moderate,Moderate,6,No
+Female,18,Business,year 1,0.995,M,No,No,No,No,Good,Rarely,Low,High,Moderate,9,No
+Male,21,Medicine,year 3,3.75,S,Yes,No,No,No,Fair,Rarely,Low,Very High,High,6,Yes
+Male,20,Psychology,year 3,3.245,S,No,No,No,No,Excellent,Daily,Very High,High,No Stress,5,No
+Female,19,Education,year 3,2.245,S,No,Yes,No,No,Fair,Never,Low,Very High,High,6,Yes
+Female,23,BCS,year 1,3.245,S,No,No,No,No,Fair,Rarely,Very High,High,Moderate,7,No
+Male,23,Arts,year 2,3.75,M,Yes,Yes,No,No,Fair,Never,Low,Moderate,High,9,No
+Male,20,Education,year 1,2.245,M,No,No,No,No,Excellent,Daily,Very Low,Low,Low,5,No
+Female,18,Arts,year 3,3.245,S,No,Yes,Yes,No,Good,Daily,Very Low,Very High,High,9,No
+Female,22,Science,year 4,3.245,M,Yes,Yes,No,No,Good,Daily,Low,Very High,No Stress,2,No
+Female,20,Business,year 4,2.745,S,Yes,No,No,No,Fair,Rarely,High,Moderate,Low,4,No
+Male,20,Engineering,year 1,2.245,S,No,No,No,No,Good,Never,High,Moderate,High,3,No
+Female,20,Psychology,year 2,3.245,S,No,No,No,No,Excellent,Rarely,Very High,High,High,4,No
+Male,20,Nursing,year 2,3.75,M,Yes,No,Yes,No,Good,3-4 times/week,Very Low,High,High,9,No
+Male,18,Science,year 4,3.75,M,Yes,Yes,No,Yes,Poor,Daily,Low,Very High,Low,6,No
+Male,20,Nursing,year 3,2.245,S,Yes,Yes,Yes,Yes,Good,Never,Low,Very High,No Stress,5,No
+Female,23,Arts,year 2,2.245,M,Yes,Yes,No,No,Poor,1-2 times/week,Low,Moderate,No Stress,8,No
+Female,19,BCS,year 3,0.995,M,No,No,Yes,No,Good,Never,Moderate,High,High,3,No
+Female,20,Science,year 3,0.995,S,No,No,Yes,No,Good,3-4 times/week,Very Low,High,Moderate,6,Yes
+Female,20,Law,year 4,3.245,M,No,No,No,No,Poor,Rarely,High,High,No Stress,3,No
+Female,18,Medicine,year 1,3.245,M,No,No,No,No,Poor,Rarely,Very High,Moderate,Low,3,No
+Male,21,BIT,year 1,3.245,S,Yes,Yes,No,No,Good,1-2 times/week,Very Low,High,Low,3,Yes
+Female,21,BCS,year 2,3.245,M,No,No,Yes,No,Excellent,Never,Low,Low,High,4,No
+Male,24,Arts,year 2,2.245,S,Yes,No,No,No,Fair,3-4 times/week,Very Low,Very High,No Stress,9,No
+Male,24,Islamic education,year 3,0.995,M,No,No,Yes,No,Good,Daily,Very High,Low,Moderate,7,Yes
+Male,19,Engineering,year 1,2.745,S,Yes,Yes,No,Yes,Fair,1-2 times/week,Very Low,Moderate,Moderate,5,Yes
+Male,21,Science,year 4,2.745,S,Yes,Yes,No,No,Fair,Daily,Very Low,High,Moderate,3,No
+Female,20,Business,year 3,0.995,S,Yes,Yes,No,No,Poor,Daily,Low,Low,Moderate,2,No
+Female,19,Law,year 2,0.995,M,Yes,No,No,Yes,Poor,Daily,Low,Moderate,No Stress,9,No
+Male,22,Psychology,year 1,2.745,S,No,No,Yes,No,Fair,3-4 times/week,High,Moderate,High,8,No
+Male,23,Arts,year 2,2.745,M,Yes,No,No,No,Poor,Daily,Low,High,No Stress,8,No
+Male,18,Education,year 1,3.245,S,No,No,Yes,No,Good,1-2 times/week,Moderate,Low,Low,5,No
+Female,22,Psychology,year 4,3.75,M,No,No,No,No,Good,3-4 times/week,Very High,High,Moderate,9,No
+Male,22,Business,year 4,2.245,S,No,No,Yes,No,Excellent,Daily,Low,Very High,No Stress,6,No
+Male,20,Arts,year 3,0.995,M,No,Yes,Yes,Yes,Fair,Rarely,Low,Moderate,No Stress,4,Yes
+Female,18,Law,year 2,2.745,M,No,No,No,No,Excellent,Rarely,High,Very High,Low,2,No
+Female,19,BCS,year 1,2.245,S,No,No,No,No,Poor,1-2 times/week,Moderate,Low,Low,5,No
+Female,22,Nursing,year 1,2.245,M,Yes,Yes,Yes,No,Fair,Daily,Low,Moderate,High,7,No
+Male,23,Medicine,year 3,0.995,S,Yes,Yes,No,No,Fair,1-2 times/week,Very High,High,Moderate,5,No
+Female,24,Arts,year 2,3.245,M,No,No,Yes,No,Poor,1-2 times/week,High,High,High,3,No
+Male,19,Medicine,year 3,3.245,S,No,No,No,No,Good,Never,High,Very High,High,5,No
+Female,24,BCS,year 3,0.995,S,No,No,No,No,Poor,Rarely,High,High,High,8,No
+Male,21,Engineering,year 4,0.995,M,Yes,Yes,No,Yes,Fair,1-2 times/week,Low,Very High,High,2,No
+Female,24,Psychology,year 2,2.745,M,No,No,No,No,Good,Never,Very High,High,No Stress,3,No
+Male,22,Law,year 1,3.245,S,Yes,No,No,No,Fair,3-4 times/week,Very Low,High,No Stress,2,Yes
+Female,22,Law,year 4,0.995,S,No,No,No,No,Fair,Rarely,Moderate,High,Moderate,9,No
+Female,24,Psychology,year 3,2.745,M,Yes,Yes,Yes,No,Poor,3-4 times/week,Moderate,Moderate,High,2,No
+Female,24,Law,year 4,2.745,M,Yes,No,No,No,Good,Daily,Low,Very High,No Stress,7,No
+Female,18,Science,year 2,0.995,M,No,Yes,Yes,No,Poor,Rarely,Very High,Moderate,High,8,No
+Female,18,Nursing,year 3,3.245,S,No,Yes,Yes,No,Fair,Rarely,High,Low,Low,3,Yes
+Male,23,Science,year 4,2.245,M,No,No,Yes,No,Good,3-4 times/week,Very Low,Moderate,High,9,No
+Female,23,Medicine,year 3,2.745,M,Yes,Yes,Yes,No,Fair,Never,Moderate,Very High,High,6,Yes
+Male,21,BCS,year 1,0.995,M,Yes,Yes,Yes,No,Excellent,1-2 times/week,High,Very High,No Stress,5,Yes
+Male,24,BCS,year 1,3.245,M,Yes,No,Yes,No,Fair,1-2 times/week,Very Low,Very High,Low,7,Yes
+Male,18,Law,year 1,3.245,S,No,Yes,No,Yes,Fair,Never,Very High,High,Moderate,7,No
+Male,23,Engineering,year 4,3.75,M,No,No,Yes,No,Excellent,Daily,High,High,Moderate,5,No
+Male,24,Engineering,year 1,0.995,S,No,No,No,No,Excellent,Rarely,High,Very High,High,5,No
+Female,21,Arts,year 2,0.995,M,No,Yes,Yes,No,Excellent,Rarely,Moderate,Very High,Moderate,2,Yes
+Female,22,Law,year 3,3.75,M,Yes,Yes,No,No,Fair,Never,Very Low,Very High,Moderate,5,Yes
+Female,22,Science,year 2,3.245,S,No,No,No,No,Poor,3-4 times/week,Very High,Moderate,No Stress,4,No
+Male,24,Education,year 4,2.745,S,No,No,Yes,No,Excellent,Rarely,Low,High,High,7,No
+Male,20,Business,year 4,3.245,M,No,No,Yes,No,Fair,Never,Low,Very High,High,5,No
+Male,20,Arts,year 2,3.245,M,No,No,Yes,No,Poor,1-2 times/week,Low,Low,No Stress,9,Yes
+Male,19,Science,year 2,2.245,M,No,No,No,No,Excellent,Daily,Very Low,Low,Low,9,No
+Male,24,BIT,year 1,3.75,S,No,No,Yes,No,Fair,Daily,Very Low,Low,High,6,No
+Female,19,Nursing,year 2,3.245,S,No,No,No,No,Poor,1-2 times/week,Moderate,Low,Low,9,Yes
+Male,23,Islamic education,year 1,3.75,M,No,No,No,No,Poor,Daily,High,High,High,7,No
+Male,22,Science,year 1,2.245,S,No,No,No,No,Excellent,Never,Very Low,Moderate,High,9,No
+Male,24,Science,year 1,2.745,M,No,No,No,No,Poor,3-4 times/week,Moderate,High,Low,6,No
+Male,20,Business,year 4,2.245,S,No,No,Yes,No,Excellent,Never,Very Low,Very High,No Stress,6,No
+Male,20,Engineering,year 3,3.245,S,No,No,No,No,Excellent,Rarely,Low,Moderate,Moderate,5,No
+Female,22,Law,year 2,2.745,S,No,No,No,No,Poor,Rarely,Very High,High,High,5,Yes
+Female,19,BIT,year 4,2.745,S,Yes,No,No,No,Poor,Daily,Very High,High,Low,2,No
+Female,22,Islamic education,year 4,2.745,M,No,Yes,No,No,Poor,Daily,Moderate,High,High,5,Yes
+Female,22,Medicine,year 1,0.995,S,Yes,Yes,No,No,Poor,1-2 times/week,Very High,Very High,No Stress,4,No
+Male,24,BIT,year 1,3.245,S,No,No,No,No,Fair,3-4 times/week,Moderate,Moderate,Low,4,No
+Female,21,Nursing,year 2,0.995,S,No,Yes,No,Yes,Poor,Daily,Moderate,High,Moderate,8,No
+Male,22,Nursing,year 3,3.75,M,No,No,No,No,Fair,Never,Very High,High,High,8,No
+Female,23,Medicine,year 2,2.245,M,No,Yes,Yes,Yes,Poor,1-2 times/week,Low,High,High,9,No
+Male,21,Islamic education,year 3,3.75,S,Yes,Yes,Yes,Yes,Poor,Daily,Low,Very High,High,3,No
+Female,18,Business,year 2,3.75,S,No,Yes,Yes,Yes,Fair,Daily,High,Moderate,Moderate,5,No
