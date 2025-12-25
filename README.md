@@ -18,13 +18,11 @@ This application transforms raw student mental health data into visual stories. 
 - Beautiful, interactive charts (histograms, pie charts, bar charts, heatmaps)
 - Real-time filtering and exploration
 - Professional gradient styling
-- Mobile-responsive design
 
 ### 🧠 Insight Generation
 - Track depression and anxiety patterns
 - Discover variable relationships
 - Analyze lifestyle factors (sleep, exercise, support systems)
-- Identify at-risk student populations
 
 ### 📈 Performance Insights
 - Connect academic pressure to CGPA
@@ -188,18 +186,6 @@ Kaggle: [Mental Health of Students Dataset](https://www.kaggle.com/datasets/amin
 
 ---
 
-## 🤖 Smart Q&A System
-
-How does the AI understand your questions?
-
-1. **You ask a question** - "What percentage of students have anxiety?"
-2. **AI finds relevant info** - Searches a knowledge base 
-3. **Context is added** - Retrieves matching statistics and patterns
-4. **LLM generates answer** - Uses Groq's fast language model
-5. **You get insights** - Conversational, accurate response
-
-The system works even without internet (uses local embeddings), and gracefully handles API outages.
-
 ### app.py (~700 lines)
 **The main dashboard**
 - Clean, inline code for easy reading
@@ -241,6 +227,7 @@ The system works even without internet (uses local embeddings), and gracefully h
 ✅ **Filters not working?** Make sure at least one option is selected  
 ✅ **Charts look odd?** Refresh browser or restart app  
 ✅ **Confused by numbers?** Check Dataset section above for column meanings
+
 
 
 
