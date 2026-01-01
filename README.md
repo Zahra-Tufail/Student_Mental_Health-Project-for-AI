@@ -163,9 +163,6 @@ Open your browser to `http://localhost:8501`
 
 ## 📊 Data Overview
 
-### Source
-Kaggle: [Mental Health of Students Dataset](https://www.kaggle.com/datasets/aminasalamat/mental-health-of-students-dataset)
-
 ### Main Columns
 
 | Data | Meaning |
@@ -227,6 +224,7 @@ Kaggle: [Mental Health of Students Dataset](https://www.kaggle.com/datasets/amin
 ✅ **Filters not working?** Make sure at least one option is selected  
 ✅ **Charts look odd?** Refresh browser or restart app  
 ✅ **Confused by numbers?** Check Dataset section above for column meanings
+
 
 
 
